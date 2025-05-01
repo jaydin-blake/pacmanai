@@ -1,5 +1,5 @@
 # pacmanai
-# 🧠 Pacman AI Agent (Gymnasium)
+#  Pacman AI Agent (Gymnasium)
 
 This project implements an AI agent that plays Pacman using the Gymnasium framework. The agent navigates a grid-based maze to collect food pellets, avoid ghosts, and optimize its score based on predefined rewards and penalties.
 
